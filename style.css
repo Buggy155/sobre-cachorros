@@ -1,9 +1,13 @@
 body{
     color: rgba(199, 192, 192, 0.452);
     background-color: rgb(44, 87, 72);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ul{
     display: flex;
     justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
 }

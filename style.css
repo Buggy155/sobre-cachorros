@@ -1,3 +1,9 @@
 body{
-    background-color: aquamarine;
+    color: rgba(199, 192, 192, 0.452);
+    background-color: rgb(44, 87, 72);
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
 }

@@ -13,7 +13,7 @@ ul{
 }
 
 a{
-    color:rgb(184, 157, 99);
+    color:rgb(99, 129, 184);
     text-decoration: none;
 }
 
@@ -36,6 +36,5 @@ footer img{
     width: 40px;
     height: 30px;
     border-radius: 30%;
-    border: 3px solid rgb(0, 0, 0)
-    color(rgb(38, 38, 170)
+    border: 5px solid rgb(0, 0, 0)
 }
